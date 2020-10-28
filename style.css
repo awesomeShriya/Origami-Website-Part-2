@@ -1,0 +1,18 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: lightcoral;
+}
+h1{
+    color:white;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: space-evenly;
+}
+.item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 20 px;
+}
